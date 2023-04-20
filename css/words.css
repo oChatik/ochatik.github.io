@@ -1,0 +1,18 @@
+.container_words {
+	padding: 10px;
+	background: #eee;
+	text-align: right;
+	clear: both;
+}
+
+.left_words {
+    float: left;
+    color: rgba(0,0,0,0.5);
+}
+
+.left_words a,
+  a.left_words:visited,
+  a.left_words:hover{
+    color: rgba(0,0,0,0.5);
+    text-decoration: none;
+}
